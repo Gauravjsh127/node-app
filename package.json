@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "sample node app to test CICD ipelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gauravjsh127/node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gauravjsh127/node-app/issues"
+  },
+  "homepage": "https://github.com/Gauravjsh127/node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^6.2.2",
+    "node": "^13.5.0",
+    "supertest": "^4.0.2"
+  }
+}
