@@ -1,2 +1,3 @@
 # node-app
-sample node app to test CICD ipelines
+sample node app to test CICD pipelines
+
